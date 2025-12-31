@@ -1,0 +1,2 @@
+It's the game of blackjack which is played by 2 players. In this case , you play with the computer. You want to have total value of your cards under 22. If the total value is 22 or over 22 you lose. If you have under 22 and you want to stop 
+you can stop and the other person starts playing. If he reaches a total value  over your total value and his value is under 22 , you lose . If he reaches a total value of 22 or over 22 he loses, you win.
